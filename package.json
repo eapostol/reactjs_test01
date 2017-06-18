@@ -1,0 +1,28 @@
+{
+  "name": "reactjs_test01",
+  "version": "1.0.0",
+  "description": "a project for exploring React JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eapostol/reactjs_test01.git"
+  },
+  "keywords": [
+    "reactJS",
+    "Javascript",
+    "React",
+    "components"
+  ],
+  "author": "Edward Apostol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eapostol/reactjs_test01/issues"
+  },
+  "homepage": "https://github.com/eapostol/reactjs_test01#readme",
+  "dependencies": {
+    "react": "^15.6.1"
+  }
+}
